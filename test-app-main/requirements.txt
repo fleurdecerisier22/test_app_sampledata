@@ -1,0 +1,9 @@
+numpy
+wheel
+pandas
+plotly
+streamlit
+h5py
+streamlit_lottie
+versioned-hdf5
+streamlit-aggrid

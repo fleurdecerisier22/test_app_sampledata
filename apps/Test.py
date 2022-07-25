@@ -22,7 +22,7 @@ def app():
 
     st.write("data_num : ", len(data['norm']))
     st.write("OK DataLoad")
-    plot_hist(data["norm"][:])
+    st.plotly_chart(plot_hist(data["norm"][:]))
     #st.write(data["norm"][:])
 
     

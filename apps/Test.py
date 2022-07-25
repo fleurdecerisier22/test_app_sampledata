@@ -2,6 +2,7 @@ from apps.__packages import load_data, lottie
 import streamlit as st
 import numpy as np
 import plotly.express as px
+import pandas as pd
 
 
 def plot_hist(_list, name="x"):

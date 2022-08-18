@@ -6,7 +6,7 @@ class Variables:
 
         #Files
         
-        self.sample_data = 'apps/__data/sample_150000_vds.h5py'
+        self.sample_data = 'apps/__data/sample_data_6000000.h5py'
        
         #lottieurl
         

@@ -14,7 +14,7 @@ maxMessageSize = 1000
 
 # Enables support for websocket compression.
 # Default: false
-enableWebsocketCompression = true
+#enableWebsocketCompression = true
 
 [theme]
 # Primary accent for interactive elements
